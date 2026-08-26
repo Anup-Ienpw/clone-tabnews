@@ -9,3 +9,6 @@ export default function Home() {
 //  return <p>Outra função</p>;
 //}
 
+function teste2() {
+  console.log("indentação errada");
+}
